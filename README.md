@@ -24,16 +24,16 @@ Dans la mesure du possible, individualisez les supports au maximum en indiquant 
 
 * [Présentation 2](https://github.com/Jehadel/Besoins-faisabilite/blob/main/Seance-2_Besoins-priorisation-existant-faisabilite.pdf)
 
- - Mener les entretiens
- - Formalliser les besoins, MoSCoW 
- - Pré-prioriser, ICE
- - Analyse de l’existant, audit
- - SWOT, SWOT croisé
- - Faisabilité, TELOS
+  - Mener les entretiens
+  - Formalliser les besoins, MoSCoW 
+  - Pré-prioriser, ICE
+  - Analyse de l’existant, audit
+  - SWOT, SWOT croisé
+  - Faisabilité, TELOS
 
 * Supports séances 2
   Outre les fiches vues en séance 1 (notamment le classeur de cadrage qu’il faut continuer à remplir)
 
- - Fiche [compte-rendu d’entretien](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-05_Compte-rendu-entretien.odt)
- - Fiche [SWOT/SWOT croisée](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-06_SWOT-TOWS.odt)
- - Fiche [faisabilité](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-07_Trame-rapport-faisabilite.odt)
+  - Fiche [compte-rendu d’entretien](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-05_Compte-rendu-entretien.odt)
+  - Fiche [SWOT/SWOT croisée](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-06_SWOT-TOWS.odt)
+  - Fiche [faisabilité](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-07_Trame-rapport-faisabilite.odt)
