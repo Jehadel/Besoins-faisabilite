@@ -14,11 +14,11 @@ Supports du cours « Analyse des besoins et faisabilité » Ynov Campus Aix - M1
 * Supports séance 1
 Dans la mesure du possible, individualisez les supports au maximum en indiquant le nom du/de la rédacteur/ice sur des parties spécifiques ou quand les notes sont prises à tour de rôle (un personnage, prise de note, compte-rendu, etc.)
 
- - Fiche [cas d’étude / brief](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-01_Cas-d-etude.odt) (auteur-e-s) à inventer en séance 1
- - [Classeur de cadrage](https://github.com/Jehadel/Besoins-faisabilite/blob/main/Classeur_Outils-de-cadrage.ods) (analystes) à commencer à remplir en séance 1
- - Fiche [personnages](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-02_Personnage.odt) (auteur-e-s) à remplir en fin de séance 1
- - Fiche [veille](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-03_Veille.odt) (toustes) à commencer à remplir en séance 1 puis enrichir
- - Fiche [guide d’entretien](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-04_Guide-entretien.odt) (analystes) à préparer en séance 1
+  - Fiche [cas d’étude / brief](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-01_Cas-d-etude.odt) (auteur-e-s) à inventer en séance 1
+  - [Classeur de cadrage](https://github.com/Jehadel/Besoins-faisabilite/blob/main/Classeur_Outils-de-cadrage.ods) (analystes) à commencer à remplir en séance 1
+  - Fiche [personnages](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-02_Personnage.odt) (auteur-e-s) à remplir en fin de séance 1
+  - Fiche [veille](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-03_Veille.odt) (toustes) à commencer à remplir en séance 1 puis enrichir
+  - Fiche [guide d’entretien](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-04_Guide-entretien.odt) (analystes) à préparer en séance 1
 
 ## Jour 2 / Séance 2
 
