@@ -31,9 +31,20 @@ Dans la mesure du possible, individualisez les supports au maximum en indiquant 
   - SWOT, SWOT croisé
   - Faisabilité, TELOS
 
-* Supports séances 2
+* Supports séance 2
   Outre les fiches vues en séance 1 (notamment le classeur de cadrage qu’il faut continuer à remplir)
 
   - Fiche [compte-rendu d’entretien](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-05_Compte-rendu-entretien.odt)
   - Fiche [SWOT/SWOT croisée](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-06_SWOT-TOWS.odt)
+ 
+## Jour 3 / Séance 3
+
+* [Présentation 3](https://github.com/Jehadel/Besoins-faisabilite/blob/main/Seance-3_Risques-mitigation-decision.pdf)
+
+  - Risques : définition, identification, quantification, mitigation
+  - Construire la décision, scoring
+  - Rédaction du rapport
+
+* Supports séance 3
   - Fiche [faisabilité](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-07_Trame-rapport-faisabilite.odt)
+  - Version à jour du [classeur (onglet scoring Go/No-Go)](https://github.com/Jehadel/Besoins-faisabilite/blob/main/Classeur_Outils-de-cadrage.ods)
