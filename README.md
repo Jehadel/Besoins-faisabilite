@@ -51,4 +51,4 @@ Dans la mesure du possible, individualisez les supports au maximum en indiquant 
 
 ## Jour 4 / Séance 4
 
-* [Fiche co-évaluation]()
+* [Fiche co-évaluation](https://github.com/Jehadel/Besoins-faisabilite/blob/main/fiches/Fiche-09_Grille-evaluation-soutenance_version-etudiants.odt)
